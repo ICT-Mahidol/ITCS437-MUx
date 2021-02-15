@@ -1,2 +1,2 @@
-# ITCS371-Rational
-An example Java project for the JUnit exercise of ITCS371 Introduction to Software Engineering class.
+# ITCS473-Rational
+An example Java project for the JUnit exercise of ITCS473 Software Quality Assurance and Testing class (MUx).
